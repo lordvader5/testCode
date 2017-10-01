@@ -1,3 +1,4 @@
-Let's see how this works!
+Let us see how this works!
 
-add another line
+Add another line
+New line added.
