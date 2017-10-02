@@ -1,4 +1,16 @@
 Let us see how this works!
 
+
+// -- speed up motor 5
+for (int k = 0; k < 10; k++) {
+    motor5(k*100);
+}
+
+// -- speed up motor 6
+for (int k = 0; k < 10; k++) {
+    motor6(k*100);
+}
+
 Add another line
 New line added.
+
