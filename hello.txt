@@ -9,5 +9,5 @@ for (int k = 0; k < 10; k++) {
 
 // -- speed up motor 6
 for (int k = 0; k < 10; k++) {
-    motor5(k*100);
+    motor6(k*100);
 }
